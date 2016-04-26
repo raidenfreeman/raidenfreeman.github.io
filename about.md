@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My name is *something* andthis is a site.
+My name is *something* and this is a site.
 
 This is more info about me, and **this is important**.
 
-Here is my [wordpress site](raidenfreeman.wordpress.com)
+Here is my [wordpress site](http://raidenfreeman.wordpress.com)
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
